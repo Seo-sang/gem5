@@ -1,0 +1,11 @@
+{
+    "python.analysis.extraPaths": [
+        "src/python",
+        "ext",
+        "tests"
+    ],
+    "files.associations": {
+        "cstdio": "cpp",
+        "cstring": "cpp"
+    }
+}

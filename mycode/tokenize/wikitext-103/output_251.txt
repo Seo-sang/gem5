@@ -1,0 +1,4 @@
+ <unk> are intermediates in the Peroxide process for the production of hydrazine . Many millions of kilograms of hydrazine are produced annually by this method that involves a step wherein ammonia is oxidized in the presence of methyl ethyl ketone to give the <unk> :
+ Me ( Et ) C = O + NH3 + H2O2 → Me ( Et ) <unk> + H2O
+ In subsequent steps the <unk> is converted to the <unk> , which is the immediate en route to hydrazine :
+ Me ( Et ) <unk> + NH3 → Me ( Et ) C = <unk> + H2O

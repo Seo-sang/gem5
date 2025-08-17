@@ -1,0 +1,13 @@
+ See also Image impedance # Derivation
+ The image impedances of the section are given by
+ <formula>
+ and
+ <formula>
+ Given that the filter does not contain any resistive elements , the image impedance in the pass band of the filter is purely real and in the stop band it is purely imaginary . For example , for the pictured low @-@ pass half @-@ section ,
+ <formula>
+ The transition occurs at a cut @-@ off frequency given by
+ <formula>
+ Below this frequency , the image impedance is real ,
+ <formula>
+ Above the cut @-@ off frequency the image impedance is imaginary ,
+ <formula>

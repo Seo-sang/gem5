@@ -1,0 +1,8 @@
+ The transmission parameters for a general constant k half @-@ section are given by
+ <formula>
+ and for a chain of n half @-@ sections
+ <formula>
+ For the low @-@ pass L @-@ shape section , below the cut @-@ off frequency , the transmission parameters are given by
+ <formula>
+ That is , the transmission is lossless in the pass @-@ band with only the phase of the signal changing . Above the cut @-@ off frequency , the transmission parameters are :
+ <formula>

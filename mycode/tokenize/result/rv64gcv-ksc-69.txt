@@ -1,0 +1,13 @@
+Global frequency set at 1000000000000 ticks per second
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.1.0.1
+gem5 compiled Apr 25 2025 08:02:55
+gem5 started Jun 10 2025 21:52:18
+gem5 executing on e3cb1f1164ed, pid 261
+command line: ./build/RISCV/gem5.opt --stats-file=rv64gcv-tokenize-_69.txt ./configs/deprecated/example/se.py --cpu-type=RiscvMinorCPU --cmd=/gem5/mycode/tokenize/rv64gcv-tokenize '--option=-p /gem5/mycode/tokenize -f wikitext-103/input_69.txt' --caches --l2cache --l1d_size=32kB --l1i_size=32kB --l2_size=256kB --cacheline_size=64
+
+**** REAL SIMULATION ****
+4317 6831
+Exiting @ tick 413498440000 because exiting with last active thread context
